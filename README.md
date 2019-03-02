@@ -1,4 +1,4 @@
-# Alzeimer-s-Analysis
+# Alzeimer's Analysis
 
 The goal of this analysis is to serve two purposes. 
 The first one is to predict whether a patient has Alzheimer’s disease. 
